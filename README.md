@@ -45,7 +45,7 @@
 
 ## About The Project
 
-As its name says, this project is a clone of YouTube, which has some of the features and functionality of the original application.
+Allows the user to generate an image using a prompt, which is sent to openAI to generate the image and return the image generated with AI.
 
 ### Features
 
